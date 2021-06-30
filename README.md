@@ -12,9 +12,7 @@ Após isso, é só executar os programas através do comando:
 
 ```bash
 python3 Projeto_01.py
-```![Ondas](https://user-images.githubusercontent.com/69048604/123885094-1091b780-d923-11eb-8abc-6c83e4694032.png)
-![Ondas2](https://user-images.githubusercontent.com/69048604/123885096-112a4e00-d923-11eb-86cb-73f9f38e0a80.png)
-
+```
 ou 
 
 ```bash
