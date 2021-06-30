@@ -21,9 +21,11 @@ python3 Projeto_02.py
 ## Exemplo
 
 Projeto 01:
+
 ![](./Ondas.png)
 
 Projeto 02:
+
 ![](./Ondas2.png)
 
 ## Desenvolvedores
